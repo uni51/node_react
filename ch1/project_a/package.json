@@ -1,0 +1,16 @@
+{
+  "name": "project_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node -v"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffe-script": "^0.0.1-security",
+    "colors": "^1.2.1"
+  }
+}
