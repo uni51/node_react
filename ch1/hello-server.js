@@ -1,5 +1,5 @@
 // httpモジュールを読み込む
-require('http')
+const http = require('http')
 
 // Webサーバーを実行
 const svr = http.createServer(handler) // サーバーを生成
